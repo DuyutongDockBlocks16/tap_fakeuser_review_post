@@ -1,0 +1,16 @@
+[
+  {
+    "name": "acw_tc",
+    "value": "2760824916516554436245785e3f2627cb7201fadb86ff3519da920c988475",
+    "domain": "accounts.taptap.com",
+    "path": "/",
+    "expires": 1651657243.63231,
+    "size": 68,
+    "httpOnly": true,
+    "secure": false,
+    "session": false,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
